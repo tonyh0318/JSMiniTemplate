@@ -8,6 +8,7 @@
 main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
+    min-height: 90vh;
 }
 
 /* nav bar styles */
